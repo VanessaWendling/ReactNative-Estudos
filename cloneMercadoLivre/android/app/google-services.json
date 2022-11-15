@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083359105473",
+    "project_id": "clonemercadolivre-48671",
+    "storage_bucket": "clonemercadolivre-48671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083359105473:android:21b180a18d48f025ea1f40",
+        "android_client_info": {
+          "package_name": "com.cloneMercadoLivre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083359105473-lplkbapp54m44prsjouih44t5d19sbth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVl1sapge416onMij77nXW-1G7f7nDI78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083359105473-lplkbapp54m44prsjouih44t5d19sbth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
